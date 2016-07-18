@@ -1,4 +1,3 @@
-id,report_date,advertiser_id,vendor_id,site,category,campaign_id,adgroup_id,ad_id,bidding,win,imp,event,click,conversion,reach,mreach,cost,deal_cost,bounce,
-1,2016-04-08,100,0,,168,0,0,0,22,13,11,3,0,0,0,0,0,23340,0
-
-境内_3D_详情页_访问7+_5k以下_@0112
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
